@@ -32,5 +32,9 @@ var hero = {
 console.log (hero["name"])
 console.log (hero["weapon"])
 console.log (hero["hair"])
+
 ```
+console.log (hero"name")
+console.log (hero"weapon")
+console.log (hero"hair")
 
